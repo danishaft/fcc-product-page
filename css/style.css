@@ -42,7 +42,7 @@ ul{
     align-items: center;
 }
 .nav-link{
-    font-size: clamp(.6rem, .5vw, 1.5rem);
+    font-size: clamp(.6rem, .7vw, 1.5rem);
     margin-left: .7rem;
 }
 a{
